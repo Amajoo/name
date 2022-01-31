@@ -1,6 +1,6 @@
 [
   {
-    "متن": "بوم بوم",
+    "متن": "سلام",
     "زمان": " ",
     "عکس": "https://s6.uupload.ir/files/download_edq.jpeg",
     "متن خارجی": "Put an update",
